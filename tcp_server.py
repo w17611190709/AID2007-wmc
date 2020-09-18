@@ -1,5 +1,6 @@
 """
 tcp 服务端基础实例
+按时发送安抚撒
 """
 
 from socket import *
